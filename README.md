@@ -1,4 +1,4 @@
-### **🚀 Hey there, I'm Pavel Safonov**
+## **🚀 Hey there, I'm Pavel Safonov**
 ### DevOps Engineer | Self-Hosting Enthusiast | Automation Lover
 
 💼 Open to new job opportunities in DevOps or Cloud/Infrastructure Engineering
@@ -13,7 +13,7 @@ I build tools that make life easier — whether it's streamlining deployments, a
 
 🔧 Always learning, always automating
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,bash,ansible,terraform,grafana,prometheus,python,fastapi,postgres)](https://skillicons.dev)
 ### Contact me
 ✉️ [Email](mailto:safonovpavel97@gmail.com)
